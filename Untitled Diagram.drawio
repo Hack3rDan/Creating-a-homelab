@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T17:47:37.874Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.11" etag="sz0dkgtF81wRI93cWkq-" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T17:47:57.771Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="0gfqT6C_pRwHQysHEW3S" version="22.1.11" type="github">
   <diagram name="Page-1" id="EPHLA8TgaiOjpbL36nEZ">
-    <mxGraphModel>
+    <mxGraphModel dx="1216" dy="2239" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="arbGC8zKoDDduwU6-Xx--1" value="Home Server" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="-110" width="530" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="arbGC8zKoDDduwU6-Xx--2" value="Docker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="-95" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arbGC8zKoDDduwU6-Xx--3" value="VirtualBox" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="40" width="340" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="arbGC8zKoDDduwU6-Xx--4" value="pfSense" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="50" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="arbGC8zKoDDduwU6-Xx--5" value="Kali" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="110" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="arbGC8zKoDDduwU6-Xx--6" value="Linux Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="arbGC8zKoDDduwU6-Xx--7" value="Windows" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="arbGC8zKoDDduwU6-Xx--8" value="Infected Boxes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="arbGC8zKoDDduwU6-Xx--9" value="Infected Boxes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="arbGC8zKoDDduwU6-Xx--10" value="Infected Boxes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
